@@ -17,22 +17,6 @@ sudoku-jogo
 │       └── Entrada.java    
 ```
 
-## Como Compilar e Executar
-
-Para compilar e executar o jogo, siga os passos abaixo:
-
-1. **Certifique-se de ter o Java instalado**: Verifique se você possui o JDK instalado em sua máquina. Você pode baixar a versão mais recente do JDK no site oficial da Oracle.
-
-2. **Compile o código**: Navegue até o diretório `src` e execute o seguinte comando no terminal:
-   ```
-   javac *.java util/*.java
-   ```
-
-3. **Execute o jogo**: Após a compilação, execute o jogo com o comando:
-   ```
-   java Main
-   ```
-
 ## Funcionalidades
 
 - Inicialização do tabuleiro de Sudoku com números pré-definidos.
